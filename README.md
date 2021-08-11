@@ -21,7 +21,7 @@
     "Tarifs": "",
     "types": "Client",
     "call": "Confirmé",
-    "vendeurs": "Bouachir",
+    "vendeurs": "",
     "workshops": "",
     "provenances": "Mehdi DI",
     "coachs": "",
