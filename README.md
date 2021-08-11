@@ -8,7 +8,7 @@
    add this to the body (JSON forma) of the request
    ```
    {
-    " CreationDateMin": "",
+    "CreationDateMin": "",
     "CreationDateMax": "2021-07-02T19:33:27.539+00:00",
     "workshopBeginDateMin": "2021-05-01T00:00:00.000Z",
     "workshopBeginDateMax": "",
