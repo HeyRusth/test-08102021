@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="262.7" height="162.7" viewBox="0 0 262.7 162.7">
+  <defs>
+    <filter id="Path_605" x="0" y="0" width="262.7" height="162.7" filterUnits="userSpaceOnUse">
+      <feOffset dy="0.3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.45" result="blur"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_882" data-name="Group 882" transform="translate(-507.65 -396.95)">
+    <g id="Folder" transform="translate(509 398)">
+      <g transform="matrix(1, 0, 0, 1, -1.35, -1.05)" filter="url(#Path_605)">
+        <path id="Path_605-2" data-name="Path 605" d="M8,0h99.372l12.084,7H252a8,8,0,0,1,8,8V152a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0Z" transform="translate(1.35 1.05)" fill="#ffe18e"/>
+      </g>
+      <path id="Path_606" data-name="Path 606" d="M8,10H108.917L119.643,0H252a8,8,0,0,1,8,8V145a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V18A8,8,0,0,1,8,10Z" transform="translate(0 7)" fill="#ffefc1"/>
+    </g>
+  </g>
+</svg>

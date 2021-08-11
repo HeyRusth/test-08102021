@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_583" data-name="Group 583" transform="translate(-1085 -1128)">
+    <circle id="Ellipse_15" data-name="Ellipse 15" cx="16" cy="16" r="16" transform="translate(1085 1128)" fill="#3b568b"/>
+    <g id="Group_96" data-name="Group 96" transform="translate(19398.727 15223)">
+      <g id="Group_88" data-name="Group 88" transform="translate(1 1)">
+        <path id="Rectangle_670" data-name="Rectangle 670" d="M.453,0H6.8a.453.453,0,0,1,.453.453V6.342A3.624,3.624,0,0,1,3.624,9.966h0A3.624,3.624,0,0,1,0,6.342V.453A.453.453,0,0,1,.453,0Z" transform="translate(-18300.727 -14081.11)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_501" data-name="Path 501" d="M1.688,0h4.43a.316.316,0,0,1,.316.316v3.9A2.531,2.531,0,0,1,3.9,6.75a2.574,2.574,0,0,1-1.448-.458" transform="translate(-18295.629 -14081.11)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+        <circle id="Ellipse_12" data-name="Ellipse 12" cx="2.265" cy="2.265" r="2.265" transform="translate(-18298.914 -14088)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <circle id="Ellipse_13" data-name="Ellipse 13" cx="1.359" cy="1.359" r="1.359" transform="translate(-18292.572 -14086.188)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Subtraction_1" data-name="Subtraction 1" d="M8,9H1A1,1,0,0,1,0,8V1A1,1,0,0,1,1,0H8A1,1,0,0,1,9,1V8A1,1,0,0,1,8,9ZM2.063,1.5V3H3.844V7.593h1.5V3H7.125V1.5Z" transform="translate(-18307.727 -14085.127)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

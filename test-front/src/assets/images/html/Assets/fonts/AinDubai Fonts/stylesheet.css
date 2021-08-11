@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'Maison Neue TRIAL';
+    src: url('MaisonNeueTRIAL-Demi.eot');
+    src: url('MaisonNeueTRIAL-Demi.eot?#iefix') format('embedded-opentype'),
+        url('MaisonNeueTRIAL-Demi.woff2') format('woff2'),
+        url('MaisonNeueTRIAL-Demi.woff') format('woff'),
+        url('MaisonNeueTRIAL-Demi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Maison Neue TRIAL';
+    src: url('MaisonNeueTRIAL-Light.eot');
+    src: url('MaisonNeueTRIAL-Light.eot?#iefix') format('embedded-opentype'),
+        url('MaisonNeueTRIAL-Light.woff2') format('woff2'),
+        url('MaisonNeueTRIAL-Light.woff') format('woff'),
+        url('MaisonNeueTRIAL-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Maison Neue TRIAL';
+    src: url('MaisonNeueTRIAL-DemiIta.eot');
+    src: url('MaisonNeueTRIAL-DemiIta.eot?#iefix') format('embedded-opentype'),
+        url('MaisonNeueTRIAL-DemiIta.woff2') format('woff2'),
+        url('MaisonNeueTRIAL-DemiIta.woff') format('woff'),
+        url('MaisonNeueTRIAL-DemiIta.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Maison Neue TRIAL';
+    src: url('MaisonNeueTRIAL-Medium.eot');
+    src: url('MaisonNeueTRIAL-Medium.eot?#iefix') format('embedded-opentype'),
+        url('MaisonNeueTRIAL-Medium.woff2') format('woff2'),
+        url('MaisonNeueTRIAL-Medium.woff') format('woff'),
+        url('MaisonNeueTRIAL-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Maison Neue TRIAL';
+    src: url('MaisonNeueTRIAL-MediumIta.eot');
+    src: url('MaisonNeueTRIAL-MediumIta.eot?#iefix') format('embedded-opentype'),
+        url('MaisonNeueTRIAL-MediumIta.woff2') format('woff2'),
+        url('MaisonNeueTRIAL-MediumIta.woff') format('woff'),
+        url('MaisonNeueTRIAL-MediumIta.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Maison Neue TRIAL';
+    src: url('MaisonNeueTRIAL-BookIta.eot');
+    src: url('MaisonNeueTRIAL-BookIta.eot?#iefix') format('embedded-opentype'),
+        url('MaisonNeueTRIAL-BookIta.woff2') format('woff2'),
+        url('MaisonNeueTRIAL-BookIta.woff') format('woff'),
+        url('MaisonNeueTRIAL-BookIta.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
