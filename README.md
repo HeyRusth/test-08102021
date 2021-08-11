@@ -6,6 +6,7 @@
 4. to get all data go to http://localhost:3002/dossier/
 5. to fetch data by filter, use POSTMAN or FIRECAMP and go to http://localhost:3002/dossier/filters 
    add this to the body (JSON forma) of the request
+   ```
    {
     " CreationDateMin": "",
     "CreationDateMax": "2021-07-02T19:33:27.539+00:00",
@@ -26,3 +27,4 @@
     "coachs": "",
     "statusDossier": "Service déclaré"
   }
+  ```
